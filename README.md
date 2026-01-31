@@ -18,4 +18,4 @@ Um aplicativo de linha de comando (CLI) simples e eficiente para gerenciar suas 
 1. Certifique-se de ter o Python instalado.
 2. Clone este repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+   git clone [https://github.com/paulomelo0808/gerenciador-de-tarefas-python.git](https://github.com/paulomelo0808/gerenciador-de-tarefas-python.git)
